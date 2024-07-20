@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shivaa Kant - Social Media Marketer</title>
+    <title>Shiva Kant - Social Media Marketer</title>
     <style>
         body {
             font-family: 'Khand', sans-serif;
